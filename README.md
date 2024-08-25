@@ -1,2 +1,2 @@
 # blockthecrime
-!{Architecture](BlockThecrime-Architecture.png)
+![Architecture](BlockThecrime-Architecture.png)
