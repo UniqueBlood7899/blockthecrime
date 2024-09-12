@@ -1,4 +1,4 @@
-# blockthecrime
+# Block the Crime
 ![Architecture](BlockTheCrime-Architecture.png)
 BlockTheCrime is a blockchain based solution to tackle the major problems of judicial system like corruption during enquiry, tampering of evidences, the fear of people to go to police station and the delay in serving the justice. 
 
